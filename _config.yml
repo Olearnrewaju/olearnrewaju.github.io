@@ -13,9 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Olanrewaju Awoyele
 email: awoyeleolanrewaju@gmail.com
-description: >- Credit Risk Analyst at First Bank of Nigeria with expertise in banking, 
+description: >-
+  Credit Risk Analyst at First Bank of Nigeria with expertise in banking, 
   real estate, and data analytics. Building solutions with SQL, Power BI, 
   Python and business intelligence.
 twitter_username: olearnrewaju
@@ -26,6 +28,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : Olanrewaju Awoyele
+  name   : "Olanrewaju Awoyele"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : Doing the simple stuff
+  bio    : "Credit Risk Analyst | SQL | Power BI | Python | Banking & Finance"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,7 +72,7 @@ author:
       url: "https://x.com/olearnrewaju"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://olearnrewaju.github.io"
+      url: "https://github.com/olearnrewaju"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -81,7 +84,7 @@ footer:
       url: "https://x.com/olearnrewaju"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://olearnrewaju.github.io"
+      url: "https://github.com/olearnrewaju"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
